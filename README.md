@@ -1,3 +1,27 @@
+## Issues 
+- GPS spoofing (basic to intermediate attacks)
+    - high end emulators configured to report specific IMEIs and locations.
+    - AI to add jitter and travel a real path to mimic real life movements.
+    - Apps (least chance)
+    - scripting to mimic gps locations
+    - Desktop Link spoofing
+    - Joystick or route simulations
+    - Smali Patcher 
+    - Strip away the mock flag
+    - change IP to match the fake location
+    
+- other ways (Advanced)
+    - Sensor Telemetry Injection
+    - API replay
+    - Physical proxying (actual phones)
+    - Hardware Attestation Bypasses
+    - Software defined radio
+
+- Others
+    - intensionally going to a red zone
+ 
+## Solutions:
+
 ## GPS spoofing:
 user fakes location using mock apps or tools
 
